@@ -18,11 +18,13 @@ Revo Uninstaller · MoggyDay · 5.5 · v5.5.4
 
 MoggyDay keeps one stable URL for Revo Uninstaller: EN / RU. Revo Uninstaller on Windows 10/11 x64. 15 MB. Requirements, screenshots, MoggyDay Launcher.
 
+**Download on the site:** [EN](https://moggydayprogram.com/en/programs/revo-uninstaller) · [RU](https://moggydayprogram.com/programs/revo-uninstaller)
+
 ## Download
 
 1. Open [Revo Uninstaller EN](https://moggydayprogram.com/en/programs/revo-uninstaller) or [Revo Uninstaller RU](https://moggydayprogram.com/programs/revo-uninstaller).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Press **Download** on that card. The file is only on moggydayprogram.com — not in this repo.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
